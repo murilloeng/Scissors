@@ -1,0 +1,8 @@
+*
+!*/
+!*.gp
+!*.cpp
+!*.hpp
+!*.dat
+!*Makefile
+!.gitignore
